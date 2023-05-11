@@ -1,4 +1,4 @@
-<h1 align="left">Ciao 👋, sono Teodoro Grauso</h1>
+<h1 align="left">Ciao 👋, sono Teodoro</h1>
 <h3 align="left">Sono uno studente del Dipartimento di Informatica dell'Università degli Studi di Salerno, attualmente laureando triennale.</h3>
 
 - 👨‍💻 Tutti i miei progetti sono disponibili su [https://grauso-t.github.io/](https://grauso-t.github.io/)
