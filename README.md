@@ -1,7 +1,9 @@
 <h1 align="left">Ciao 👋, sono Teodoro</h1>
 <h5 align=" justify">Sono uno studente del dipartimento di Informatica (L-31) dell'Università degli Studi di Salerno, attualmente laureando triennale.
   
-<p><h5>Sono una persona intraprendente e puntuale nelle scadenze. Sono appassionato del mondo IT e sempre alla ricerca di nuove conoscenze e opportunità per mettermi alla prova. Durante il mio percorso accademico, ho principalmente collaborato nello sviluppo del lato back end dei progetti.</h5></p>
+<p alingn"center"><h5>Sono una persona intraprendente e puntuale nelle scadenze. Sono appassionato del mondo IT e sempre alla ricerca di nuove conoscenze e opportunità per mettermi alla prova.</p>
+
+<p alingn"center">Durante il mio percorso accademico, ho principalmente collaborato nello sviluppo del lato back end dei progetti.</p></h5>
 
 - 📄 Puoi trovate i miei progetti su [https://grauso-t.github.io/](https://grauso-t.github.io/)
 
